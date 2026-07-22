@@ -139,7 +139,7 @@ The completed flow works as follows:
 
 ## Live Demo
 
-https://ziad-alzahrani.fwh.is/voicebot/
+https://ziyad-alzahrani.fwh.is/voicebot/
 
 ## Project Files
 
@@ -190,7 +190,3 @@ define('GEMINI_API_KEY', 'YOUR_API_KEY');
 ## Screenshot
 
 ![Working Arabic Voice Assistant](images/demo.png)
-
-## Student
-
-Ziyad Alzahrani
