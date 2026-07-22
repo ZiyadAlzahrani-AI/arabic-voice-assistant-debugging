@@ -1,0 +1,8 @@
+# Secret API configuration
+gemini-config.php
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

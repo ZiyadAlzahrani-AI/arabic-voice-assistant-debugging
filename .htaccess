@@ -1,0 +1,4 @@
+# منع فتح ملف مفتاح Gemini من المتصفح
+<Files "gemini-config.php">
+  Require all denied
+</Files>
